@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/CF/production" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CF/utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LFM/pre" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LFM/util" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
